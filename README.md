@@ -1,3 +1,5 @@
+[![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
+
 # impactful-contributions
 Here we mention the impactful contributions of Yemenis to major open source packages, frameworks, etc.
 
