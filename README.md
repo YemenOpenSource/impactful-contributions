@@ -11,3 +11,9 @@ If you have a beneficial contribution to open source, tell us the link of the pu
 1. [Add the Arabic extension](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/pull/336) to [vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) VS Code extension. This is the extention [link](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-arabic). by [@WatheqAlshowaiter](https://github.com/watheqAlshowaiter/).
 2. [Added read only ability to plugin item](https://github.com/sdembele/apex_intl_phone_number_item/pull/8) to [apex_intl_phone_number_item
 ](https://github.com/sdembele/apex_intl_phone_number_item) by [@FerasTamesh](https://github.com/FerasTamesh).
+3. [](https://github.com/ritwickdey/vscode-live-server/pull/330) to [vscode-live-server](https://github.com/ritwickdey/vscode-live-server) by [@Almo7aya](https://github.com/Almo7aya).
+4. [](https://github.com/preactjs/preact/pull/1484) to [preact](https://github.com/preactjs/preact) by [@Almo7aya](https://github.com/Almo7aya).
+5. [](https://github.com/nvim-tree/nvim-tree.lua/pull/1637) to [nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) by [@Almo7aya](https://github.com/Almo7aya).
+6. [](https://github.com/LunarVim/LunarVim/pull/3180) to [LunarVim](https://github.com/LunarVim/LunarVim) by [@Almo7aya](https://github.com/Almo7aya).
+7. [](https://github.com/pystardust/ani-cli/pull/31) to [ani-cli](https://github.com/pystardust/ani-cli) by [@Almo7aya](https://github.com/Almo7aya).
+
