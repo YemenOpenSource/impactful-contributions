@@ -16,7 +16,7 @@ If you have a beneficial contribution to open source, tell us the link of the pu
 5. [fix: prevent quit_on_open from opening file in the same window](https://github.com/nvim-tree/nvim-tree.lua/pull/1637) to [nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) by [@Almo7aya](https://github.com/Almo7aya).
 6. [feat(cmp): add configs for cmp.setup.cmdline](https://github.com/LunarVim/LunarVim/pull/3180) to [LunarVim](https://github.com/LunarVim/LunarVim) by [@Almo7aya](https://github.com/Almo7aya).
 7. [add option (r) to replay current episode](https://github.com/pystardust/ani-cli/pull/31) to [ani-cli](https://github.com/pystardust/ani-cli) by [@Almo7aya](https://github.com/Almo7aya).
-8. [feat: add isFemale parameter](https://github.com/khaled-alshamaa/ar-php/pull/75) to [ar-php](https://github.com/khaled-alshamaa/ar-php/) by by [@WatheqAlshowaiter](https://github.com/watheqAlshowaiter/).
-9. [Add nameOnly parameter](https://github.com/khaled-alshamaa/ar-php/pull/66) to [ar-php](https://github.com/khaled-alshamaa/ar-php/) by by [@WatheqAlshowaiter](https://github.com/watheqAlshowaiter/).
+8. [Add nameOnly parameter](https://github.com/khaled-alshamaa/ar-php/pull/66) to [ar-php](https://github.com/khaled-alshamaa/ar-php/) by by [@WatheqAlshowaiter](https://github.com/watheqAlshowaiter/).
+9. [feat: add isFemale parameter](https://github.com/khaled-alshamaa/ar-php/pull/75) to [ar-php](https://github.com/khaled-alshamaa/ar-php/) by by [@WatheqAlshowaiter](https://github.com/watheqAlshowaiter/).
 
 
