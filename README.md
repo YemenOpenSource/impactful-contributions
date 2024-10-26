@@ -19,5 +19,6 @@ If you have a beneficial contribution to open source, tell us the link of the pu
 8. [Add nameOnly parameter](https://github.com/khaled-alshamaa/ar-php/pull/66) to [ar-php](https://github.com/khaled-alshamaa/ar-php/) by [@WatheqAlshowaiter](https://github.com/watheqAlshowaiter/).
 9. [feat: add isFemale parameter](https://github.com/khaled-alshamaa/ar-php/pull/75) to [ar-php](https://github.com/khaled-alshamaa/ar-php/) by [@WatheqAlshowaiter](https://github.com/watheqAlshowaiter/).
 10. [Add Yemeni related data to fake data generator python library](https://github.com/linuxscout/arabic-mimesis/pull/14) by [@WatheqAlshowaiter](https://github.com/watheqAlshowaiter/).
+11. [Implement free Google translation service](https://github.com/Bottelet/translation-checker/pull/12) by [@WatheqAlshowaiter](https://github.com/watheqAlshowaiter/).
 
 
