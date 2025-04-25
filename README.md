@@ -23,5 +23,6 @@ If you have a beneficial contribution to open source, tell us the link of the pu
 12. [Add custom prompt to translation feature in Laravel package](https://github.com/Bottelet/translation-checker/pull/17) by [@WatheqAlshowaiter](https://github.com/watheqAlshowaiter/).
 13. [Contributing to SallaApp/ZATCA package](https://github.com/SallaApp/ZATCA/graphs/contributors) by [@salkhwlani](https://github.com/salkhwlani), [@thaifanisalla](https://github.com/thaifanisalla), and [@nabiloo19](https://github.com/nabiloo19).
 14. [Add labels for create and edit option actions in Select input to show label on sr-only for current local in FilamentPHP](https://github.com/filamentphp/filament/pull/14978) by [@A909M](https://github.com/A909M)
+15. [feat: use scopes with other columns besides created_at](https://github.com/laracraft-tech/laravel-date-scopes/pull/25) by [@aymanalhattami](https://github.com/aymanalhattami)
 
 
