@@ -26,4 +26,5 @@ If you have a beneficial contribution to open source, tell us the link of the pu
 15. [feat: use scopes with other columns besides created_at](https://github.com/laracraft-tech/laravel-date-scopes/pull/25) by [@aymanalhattami](https://github.com/aymanalhattami)
 16. [Add support for registering states from multiple custom directories](https://github.com/spatie/laravel-model-states/pull/282) to [spatie/laravel-model-states](https://github.com/spatie/laravel-model-states) by [@A909M](https://github.com/A909M).
 17. [Add stdin support with explicit opt-in flag](https://github.com/spatie/laravel-model-states/pull/282) to [laravel/pint](https://github.com/laravel/pint) by [@A909M](https://github.com/A909M).
+18. [add count and boolean methods for available transactions](https://github.com/spatie/laravel-model-states/pull/290) to [spatie/laravel-model-states](https://github.com/spatie/laravel-model-states) by [@WatheqAlshowaiter](https://github.com/watheqAlshowaiter/).
 
