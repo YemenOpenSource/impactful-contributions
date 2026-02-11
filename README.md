@@ -27,4 +27,6 @@ If you have a beneficial contribution to open source, tell us the link of the pu
 16. [Add support for registering states from multiple custom directories](https://github.com/spatie/laravel-model-states/pull/282) to [spatie/laravel-model-states](https://github.com/spatie/laravel-model-states) by [@A909M](https://github.com/A909M).
 17. [Add stdin support with explicit opt-in flag](https://github.com/spatie/laravel-model-states/pull/282) to [laravel/pint](https://github.com/laravel/pint) by [@A909M](https://github.com/A909M).
 18. [add count and boolean methods for available transactions](https://github.com/spatie/laravel-model-states/pull/290) to [spatie/laravel-model-states](https://github.com/spatie/laravel-model-states) by [@WatheqAlshowaiter](https://github.com/watheqAlshowaiter/).
+19. [feat: Add Macroable trait to PdfBuilder class](https://github.com/spatie/laravel-pdf/pull/261) to [spatie/laravel-pdf](https://github.com/spatie/laravel-pdf) by [@A909M](https://github.com/A909M).
+20. [feat: add configuration support for browsershot binary paths](https://github.com/spatie/laravel-pdf/pull/270) to [spatie/laravel-pdf](https://github.com/spatie/laravel-pdf) by [@A909M](https://github.com/A909M).
 
